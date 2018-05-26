@@ -1,4 +1,5 @@
-#public-top {
+/* top */
+#public-top {	
 	height: 31px;
 	background: url(../images/top.png) repeat-x;
 }
@@ -85,13 +86,14 @@
 	padding-left: 7px;
 	line-height: 22px;
 }
-
+/* top */
 
 /*content*/
 .hd-w {
 	width: 1210px;
 	margin: 0 auto;
 }
+/* header */
 #header {
 	height: 90px;
 	margin-top: 20px;
@@ -310,6 +312,7 @@
 	left: -308px;
 	right: 0;
 }
+/* header */
 
 /*nav*/
 #nav {
@@ -373,6 +376,7 @@
 	top: 0;
 	clear: both;
 }
+/* nav */
 
 #cate-list {
 	width: 206px;
@@ -1332,7 +1336,7 @@
 #link-page .link-page-5 dt b {
 	background-position: -120px -176px;
 }
-
+/* link */
 #son-com {
 	width: 178px;
 	height: 170px;
@@ -1353,7 +1357,8 @@
 #son-com .com-link {
 	text-align: right;
 }
-
+/* link */
+/* copyright */
 #copy-right {
 	margin-top: 23px;
 	text-align: center;
@@ -1374,3 +1379,4 @@
 #copy-right .cp-ba a {
 	margin-right: 10px;
 }
+/* copyright */
